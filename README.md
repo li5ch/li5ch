@@ -22,13 +22,11 @@ Hi there, I'm **li5ch**, a **BackEnd Engineer** 🚀 from China.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 👨🏽‍💻 个人博客https://blog.csdn.net/KID_LWC
+- 🌱 个人主页https://li5ch.github.io/
+- 🤔 专注后端技术栈，目前主攻Go开发，钻研微服务框架
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 目前工作在shopee，欢迎发简历到邮箱darkfalmer@gmail.com内推！
 
 
 **Languages and Tools:**  
