@@ -2,7 +2,7 @@
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
 
-Hi there, I'm **li5ch**, a **BackEnd Engineer** 🚀 from China. 
+I'm a **BackEnd Engineer** 🚀 from China. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
