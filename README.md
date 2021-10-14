@@ -1,8 +1,6 @@
-### Hey 👋, I'm li5ch
-
-
-<br />
-<br />
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
 
 Hi there, I'm **li5ch**, a **BackEnd Engineer** 🚀 from China. 
 
