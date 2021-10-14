@@ -8,11 +8,11 @@ I'm a **BackEnd Engineer** 🚀 from China.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 个人博客https://blog.csdn.net/KID_LWC
-- 🌱 个人主页https://li5ch.github.io/
-- 🤔 专注后端技术栈，目前主攻Go开发，钻研微服务框架
-- 💬 Ask me about anything, I am happy to help;
-- 📫 目前工作在shopee，欢迎发简历到邮箱darkfalmer@gmail.com内推！
+- 👨🏽‍💻 my blog: https://blog.csdn.net/KID_LWC
+- 🌱 personal profile: https://li5ch.github.io/
+- 🤔 focus on the back-end technology stack, currently focus on Go development, and delve into the microservice framework
+- 💬 Ask me about anything, I am happy to help
+- 📫 Currently working in shopee, welcome to send your resume to the mailbox darkfalmer@gmail.com to push!
 
 
 **Languages and Tools:**  
