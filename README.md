@@ -11,7 +11,6 @@ I'm a **BackEnd Engineer** 🚀 from China.
 - 👨🏽‍💻  my blog: https://blog.csdn.net/KID_LWC
 - 🌱 personal profile: https://li5ch.github.io/
 - 🤔 focus on the back-end technology stack, currently focus on Go development, and delve into the microservice framework
-- 💬 Ask me about anything, I am happy to help
 - 📫 Currently working in shopee, welcome to send your resume to the mailbox darkfalmer@gmail.com to push!
 
 
@@ -26,5 +25,11 @@ I'm a **BackEnd Engineer** 🚀 from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![li5ch's github stats](https://github-readme-stats.vercel.app/api?username=li5ch&show_icons=true&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li5ch&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=li5ch&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=li5ch&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=li5ch&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=li5ch&theme=github)
 
 ⭐️ From [li5ch](https://github.com/li5ch)
