@@ -1,6 +1,5 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-- 📫 Currently working in shopee, welcome to send your resume to the mailbox darkfalmer@gmail.com to push!
 ![li5ch's github stats](https://github-readme-stats.vercel.app/api?username=li5ch&show_icons=true&hide_border=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=li5ch&theme=github)
