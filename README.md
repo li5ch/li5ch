@@ -1,4 +1,4 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 - 📫 Currently working in shopee, welcome to send your resume to the mailbox darkfalmer@gmail.com to push!
 ![li5ch's github stats](https://github-readme-stats.vercel.app/api?username=li5ch&show_icons=true&hide_border=true)
